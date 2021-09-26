@@ -1,5 +1,5 @@
 # Hacker News Scraper
-python 3<
+python version: >3
 
 Instructions to be followed:
 
