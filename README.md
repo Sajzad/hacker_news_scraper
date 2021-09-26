@@ -1,6 +1,7 @@
-# sample_task_1
+# Hacker News Scraper
+python 3<
 
-Instructions to be followe:
+Instructions to be followed:
 
     1.Go to the directory where you want to store your project.
     2.Open the terminal and goto the project directory.
