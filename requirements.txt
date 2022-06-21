@@ -7,7 +7,7 @@ html5lib==1.0.1
 idna==2.8
 jsmin==2.2.2
 lxml==4.3.2
-numpy==1.16.2
+numpy==1.22.0
 oauthlib==3.0.1
 pandas==0.24.2
 Pillow==5.4.1
